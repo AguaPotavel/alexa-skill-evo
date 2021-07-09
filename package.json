@@ -1,0 +1,23 @@
+{
+  "name": "alexa-skill-evo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AguaPotavel/alexa-skill-evo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AguaPotavel/alexa-skill-evo/issues"
+  },
+  "homepage": "https://github.com/AguaPotavel/alexa-skill-evo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
